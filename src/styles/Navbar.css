@@ -1,0 +1,32 @@
+.header {
+   display: flex;
+   flex-direction: row;
+   width: '100%';
+   justify-content: space-between;
+   align-items: center;
+   margin: 10px;
+}
+.leftSection {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.Links {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.Login, .SignUp{
+margin: 5px;
+}
+.RightSection {
+    top: 10px;
+    right: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    position: absolute;
+    right: 10px; 
+    top: 10px;
+}

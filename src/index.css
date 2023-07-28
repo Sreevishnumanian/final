@@ -1,0 +1,29 @@
+:root {
+  height: 100%;
+  font-family: Bradley Hand ITC;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #FCFCFC;
+  background-image: url('https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/60108123d58c7f4754c2b6b5_6002086f72b727df6d01df3b_business-website-examples.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  scrollbar-base-color: aqua;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  background-attachment: fixed;
+}
+
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
